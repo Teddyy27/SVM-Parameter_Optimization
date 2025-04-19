@@ -6,9 +6,9 @@ This repository contains a Python implementation of an optimization algorithm ap
 ## Dataset
 The dataset used in this project is the "Wine Quality" dataset, which is available from the UCI Machine Learning Repository. This dataset contains data about various chemical properties of wine, with the goal of predicting the quality of the wine based on these properties.
 
-- **Dataset Characteristics**: Multivariate, Time-Series  
-- **Number of Instances**: 9358  
-- **Number of Features**: 15  
+- **Dataset Characteristics**: Multivariate
+- **Number of Instances**: 4898  
+- **Number of Features**: 11  
 - **Task**: Regression  
 
 You can access and download the dataset via the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/360/air+quality).
